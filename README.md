@@ -1,17 +1,16 @@
-### Hello there 👋
+### 👋 Hi, I’m Youssef
 
-<!--
-**Youssef-Ait-Elhaj/Youssef-Ait-Elhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | ☕ Java & Spring Boot | ⚡ Angular & React
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🔭 Currently working on Python & Flask & PostgreSQL
+🎯 Goal: Becoming Java 21 Certified
+🌱 Learning Cloud, Microservices & DevOps
+💡 I enjoy solving problems and building scalable applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ![](https://komarev.com/ghpvc/?username=Youssef-Ait-Elhaj&color=brightgreen) -->
+🛠️ Tech Stack
+
+Languages: Java, JavaScript, TypeScript, Python, SQL
+Frameworks: Spring Boot, Spring Security, Angular, React, Flask (Python)
+Databases: PostgreSQL, MySQL, SQL Server
+Tools & DevOps: Git, Docker, Jenkins, Maven
