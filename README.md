@@ -3,7 +3,7 @@
 💻 Software Engineer | ☕ Java & Spring Boot | ⚡ Angular & React
 
 ## 🚀 About Me
-🔭 Currently working on Python & Flask & PostgreSQL
+🔭 Currently working on Python & Flask & PostgreSQL project
 🎯 Goal: Becoming Java 21 Certified
 🌱 Learning Cloud, Microservices & DevOps
 💡 I enjoy solving problems and building scalable applications
