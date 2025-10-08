@@ -20,9 +20,9 @@ I'm actively seeking opportunities to collaborate on real-time industry projects
 ---
 
 ### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefaitelhaj&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Ait-Elhaj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefaitelhaj&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Ait-Elhaj&layout=compact&theme=radical)
 
 ---
 
