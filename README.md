@@ -1,6 +1,6 @@
 # Hi there, I’m Youssef👋
 
-I'm a Full stack developer passionate about Software development, Artificial Intelligence. My current focus is on expanding my expertise in **Java**, **Spring** and **Python** with **Flask** , while also exploring modern frameworks like React and Angular.
+I'm a Full stack developer passionate about Software development, Artificial Intelligence. My current focus is on expanding my expertise in **Java**, **Spring** and **Python** with **Flask** , while also exploring modern frameworks like **React** and **Angular**.
 
 I'm actively seeking opportunities to collaborate on real-time industry projects where I can contribute and grow my skills.
 
